@@ -1,9 +1,0 @@
-base
-readr
-dplyr
-cluster
-ggplot2
-factoextra
-gridExtra
-mclust
-dbscan
